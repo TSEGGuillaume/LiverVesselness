@@ -11,6 +11,7 @@
 #include "itkInverseFFTImageFilter.h"
 #include "itkSymmetricSecondRankTensor.h"
 
+#include "itkFFTWForwardFFTImageFilter.h"
 
 #include "boost/math/special_functions/bessel.hpp"
 

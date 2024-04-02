@@ -1,3 +1,6 @@
 [submodule "lib/jsoncpp"]
 	path = lib/jsoncpp
 	url = git@github.com:open-source-parsers/jsoncpp.git
+[submodule "RORPO/pyRORPO/pybind11"]
+	path = RORPO/pyRORPO/pybind11
+	url = git@github.com:pybind/pybind11.git
